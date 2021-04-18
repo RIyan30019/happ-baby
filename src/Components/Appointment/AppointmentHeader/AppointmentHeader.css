@@ -1,0 +1,6 @@
+.header-container {
+    height:500px;
+    background-image:   linear-gradient( rgba(17,17,17,0.9), rgba(17,17,17,0.9) ), url('../../../images/header.jpg');
+    background-size: cover;
+    
+}

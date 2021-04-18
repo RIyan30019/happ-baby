@@ -1,0 +1,14 @@
+.header-container {
+    height:500px;
+    background-image:   linear-gradient( rgba(17,17,17,0.7), rgba(17,17,17,0.7) ), url('../../../images/header.jpg');
+    background-size: cover;
+    
+}
+.header-main {
+        text-align: center;
+        font-family: cursive;
+        font-weight: 100;
+        margin-top: auto;
+        
+}
+

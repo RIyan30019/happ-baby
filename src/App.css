@@ -1,38 +1,24 @@
-.App {
-  text-align: center;
+.btn-brand{
+  background-image: linear-gradient(75deg, pink,rgb(204, 136, 148));
+  border-color: transparent;
+  text-transform: uppercase;
+  font-weight: 600;
+  height: 60px;
+  color:white;
+  border-radius: 10px;
+  
+
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
-}
+.text-brand{
+      color:rgb(243, 200, 145);
+      font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
 }
+.nav-brand{
+    
+      color:rgb(243, 200, 145);
+      font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+     
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
-}
-
-.App-link {
-  color: #61dafb;
-}
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
 }
