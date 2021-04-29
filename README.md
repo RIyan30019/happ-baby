@@ -20,7 +20,7 @@ https://happy-baby-my.web.app
 
 
 
-## Front end technology
+## Front-End technology
 
   * React js
   * Bootstrap
