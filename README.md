@@ -29,13 +29,13 @@ https://happy-baby-my.web.app
   * Stripe
   * Firebase authentication
 
-##Back-End technnology
+## Back-End technnology
 
-   *node.js
-   *express.js
-   *mongo DB
+   * node.js
+   * express.js
+   * mongo DB
 
-[Server Site]  (https://github.com/RIyan30019/happy-baby-server-site)
+[Server Site](https://github.com/RIyan30019/happy-baby-server-site)
 
 ## License
 Riyan Hasan
